@@ -1,6 +1,8 @@
 # Java-Programming-1
 CIST2371 Collection of Exercises from Introduction to Java Programming and Data Structures Comprehensive Version Y. Daniel Liang 11th Edition
+
 Chapter 2
+
   Exercise 2.5 (Financial application: Calculate Tips)
   Exercise 2.9 (Physics: Acceleration)
   Exercise 2.10 (Science: Calculating Energy)
